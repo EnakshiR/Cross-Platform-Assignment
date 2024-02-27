@@ -1,3 +1,2 @@
-# flutter_application_1
-
-A new Flutter project.
+# Cross Platfrom Assignment- Enakshi
+A Flutter Movie app
